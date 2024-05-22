@@ -1,3 +1,3 @@
 # Works
 ## About :
- This repo consists of my works.
+ This repository consists of all my works.
